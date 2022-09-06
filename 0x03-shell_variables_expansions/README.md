@@ -12,3 +12,5 @@
 11.convert binary number to its decimal equivalent 
 12.print combination of letters and omit certain combination 
 13.print a float number and limit to 2 decimal after comma
+14.decimal to hexadecimal conversion 
+15.rot13 encryption 
