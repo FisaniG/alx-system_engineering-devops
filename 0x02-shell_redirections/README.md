@@ -21,3 +21,6 @@
 20.remove all matching characters 
 21.reverse the order 
 22.sort file by users 
+23.emptying the casks
+25.acrostics
+26.the biggest fan
