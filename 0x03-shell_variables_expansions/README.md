@@ -14,3 +14,5 @@
 13.print a float number and limit to 2 decimal after comma
 14.decimal to hexadecimal conversion 
 15.rot13 encryption 
+26++16.print odd lines only
+2+17.calculate using variables numbers with variable bases 
