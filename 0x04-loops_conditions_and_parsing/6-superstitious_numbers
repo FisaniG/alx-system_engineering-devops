@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# script to print number 1-20 and different strings, using while loop and case statement
+i=0
+while ((i < 20))
+do
+    ((i++))
+    case $i in
+	"4") echo -e "$i\nbad luck from China";;
+	"9") echo -e "$i\nbad luck from Japan";;
+	"17") echo -e "$i\nbad luck from Italy";;
+	*) echo $i;;
+    esac
+done
