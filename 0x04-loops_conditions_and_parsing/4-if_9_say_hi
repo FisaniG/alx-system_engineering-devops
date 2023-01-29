@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# script to print "Best School" 9 times and "hi" when i==9 using while loop
+i=0
+while [[ $i -lt 10 ]]
+do
+    if [[ $i -eq 9 ]]; then
+  echo "Hi"
+ fi
+  echo "Best School"
+ ((i++))
+done
